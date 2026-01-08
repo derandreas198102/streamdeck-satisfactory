@@ -23,7 +23,7 @@ Center Door Wall (Concrete)
 Center Door Wall (FICSIT)
 Center Door Wall (Steel)
 Coal Generator
-Constructor
+Konstruktor
 Conveyor Lift Floor Hole
 Conveyor Lift Mk.1
 Conveyor Lift Mk.2
